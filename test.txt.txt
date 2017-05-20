@@ -1,4 +1,4 @@
 changed by dev 1
-added by dev1added by dev 2
-
-merge into master by dev2
+added by dev1
+added by dev 2
+merge into mastermerge into master by dev2
